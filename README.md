@@ -5,3 +5,4 @@ pkg install python
 pkg install git
 git clone https://github.com/Shiva454527/fbhack.git
 cd fbhack
+bash fbhack.sh
