@@ -2,3 +2,4 @@
 termux-setup-storage
 pkg install netcat
 pkg install python
+pkg install git
