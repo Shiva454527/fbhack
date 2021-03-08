@@ -1,4 +1,5 @@
 toilet -f future "Facebook Account Cracking"
+echo "This tool used for educational purpose don't use illegal activities I am not responsible"
 echo "enter numeri id "
 sleep 5
 echo " [+] Account to crack : "
